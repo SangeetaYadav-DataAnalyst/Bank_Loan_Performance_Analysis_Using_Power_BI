@@ -8,15 +8,15 @@ The Bank Loan Performance Analysis Dashboard is a comprehensive Power BI project
 
 ## Summary
 A high-level overview of loan performance metrics.
-![h](https://github.com/user-attachments/assets/4807e51f-5351-4973-b52f-4ef5d6dcc4af)
+![h](https://github.com/user-attachments/assets/e4173cd0-e9d3-4cc6-9c8a-3e214044c1a3)
 
 ## Overview
 Detailed breakdowns of loan metrics by month, state, term, purpose, employee length, and home ownership.
-![h](https://github.com/user-attachments/assets/a4ed35b6-51ed-46e8-9839-4b37e436ab6b)
+![h](https://github.com/user-attachments/assets/6422ff34-066d-40b1-8363-1e4d6ec2e9a5)
 
 ## Details
 Insights into loan statuses, such as fully paid loans, charged-off loans, and those currently active.
-![h](https://github.com/user-attachments/assets/487aaead-6306-4245-8372-94486490e734)
+![h](https://github.com/user-attachments/assets/1aa9ceea-e4f8-4d26-b599-f8e1d2d30ca7)
 
 This project leverages visual storytelling to provide actionable insights for decision-makers in the banking and financial services sector.
 
